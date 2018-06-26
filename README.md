@@ -4,14 +4,16 @@
 
 ## Setup
 
-``` bash
-The grids are created automatically based on a JSON file provided.
-Formatting of the grids can be done based on attributes given to objects in the JSON file.
-```
+- The grids are created automatically based on a JSON file provided.
+- Formatting of the grids can be done based on attributes given to objects in the JSON file.
 
 ## Screenshots
 
-![Alt text](/assets/screenshots/GridData_1.png?raw=true "Title")
+No formatting applied: 
+![Alt text](/assets/screenshots/GridData_1.png?raw=true "Non-formatted Grid")
+
+Formatting applied: 
+![Alt text](/assets/screenshots/GridData_2.png?raw=true "Formatted Grid")
 
 ## Build Setup
 
