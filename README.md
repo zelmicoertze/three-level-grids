@@ -9,10 +9,10 @@
 
 ## Screenshots
 
-No formatting applied: 
+### No formatting applied: </br>
 ![Alt text](/assets/screenshots/GridData_1.png?raw=true "Non-formatted Grid")
 
-Formatting applied: 
+### Formatting applied: </br>
 ![Alt text](/assets/screenshots/GridData_2.png?raw=true "Formatted Grid")
 
 ## Build Setup
