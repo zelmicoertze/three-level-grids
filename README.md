@@ -1,6 +1,6 @@
-# three-level-grids
+# Three Level Grids
 
-> A Vue.js project
+> Create a grid-like dashboard (consisting of 3 or less levels) to capture and display information for 3D objects. The original .NET version of the project can be found at: https://github.com/perezLamed/ThreeLevelGrids
 
 ## Build Setup
 
